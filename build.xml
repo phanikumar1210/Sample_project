@@ -70,15 +70,15 @@
     -->   
 <target name="build-war">
 
-   <war destfile="F:\NetBeans\Sample_project\dist\Sample_project.war" webxml="F:\NetBeans\Sample_project\build\web\WEB-INF\web.xml">
+   <war destfile="C:\Program Files (x86)\Jenkins\workspace\Sample_project\dist\Sample_project.war" webxml="C:\Program Files (x86)\Jenkins\workspace\Sample_project\build\web\WEB-INF\web.xml">
    <!--Give the WebContent folder path-->
-      <fileset dir="F:\NetBeans\Sample_project\build\web">
+      <fileset dir="C:\Program Files (x86)\Jenkins\workspace\Sample_project\build\web">
          <include name="**/*.*"/>
       </fileset>
       <!--Give the lib folder path-->
       
       <!--Give the classes folder path-->
-      <classes dir="F:\NetBeans\Sample_project\build\web\WEB-INF\classes"/>
+      <classes dir="C:\Program Files (x86)\Jenkins\workspace\Sample_project\build\web\WEB-INF\classes"/>
    </war>
    
 </target>
