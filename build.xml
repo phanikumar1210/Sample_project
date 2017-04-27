@@ -78,7 +78,7 @@
       <!--Give the lib folder path-->
       
       <!--Give the classes folder path-->
-      <classes dir="F:\jenkins\Installation\workspace\SampleDeployment\build\web\WEB-INF\classes"/>
+      <!--<classes dir="F:\jenkins\Installation\workspace\SampleDeployment\build\web\WEB-INF\classes"/>-->
    </war>
    
 </target>
