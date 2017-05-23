@@ -31,5 +31,5 @@
             %>
     </body>
     <%--  changed by avattem --%>
-     <%--  new line added   --%>      
+     <%--  *********** --%>      
 </html>
