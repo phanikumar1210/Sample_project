@@ -29,6 +29,9 @@
             }
             out.println("Your current IP Address is"+line1);*/
             %>
+        
+        
     </body>
-    <%--  changed by avattem --%>
+    <%--  changed by avattem  --%>
+             /*   out.println("hiiiiii");*/
 </html>
