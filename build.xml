@@ -68,7 +68,8 @@
     nbproject/build-impl.xml file. 
 
     -->   
-<target name="build-war">
+<!--welcome -->
+    <target name="build-war">
 
    <war destfile="F:\jenkins\Installation\workspace\SampleDeployment\dist\Sample_project.war" webxml="F:\jenkins\Installation\workspace\SampleDeployment\build\web\WEB-INF\web.xml">
    <!--Give the WebContent folder path-->
