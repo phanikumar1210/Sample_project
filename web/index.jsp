@@ -30,4 +30,5 @@
             out.println("Your current IP Address is"+line1);*/
             %>
     </body>
+    <%--  changed by avattem --%>
 </html>
