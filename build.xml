@@ -8,6 +8,7 @@
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
 <project name="Sample_project" default="default" basedir=".">
+    <!-- comment added-->
     <description>Builds, tests, and runs the project Sample_project.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
