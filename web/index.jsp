@@ -29,7 +29,9 @@
             }
             out.println("Your current IP Address is"+line1);*/
             %>
+         <%--  line added   --%> 
     </body>
     <%--  changed by avattem --%>
-     <%--  new line added   --%>      
+    
+    
 </html>
